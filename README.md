@@ -3,12 +3,18 @@
 System requirements: 
 
 o	PHP 5.2.0 or greater;
+
 o	PHP extensions: php_mysql (MySQL version), php_pdo and php_pdo_sqlite (SQLite version).
 Tested in browsers:
+
 o	Internet Explorer v8
+
 o	Firefox v3.6, v4
+
 o	Chrome v8
+
 o	Opera v10.60, v11
+
 o	Safari v5
 
 
