@@ -1,6 +1,7 @@
 # mytinyTODO
 
-System requirements
+System requirements: 
+
 o	PHP 5.2.0 or greater;
 o	PHP extensions: php_mysql (MySQL version), php_pdo and php_pdo_sqlite (SQLite version).
 Tested in browsers:
